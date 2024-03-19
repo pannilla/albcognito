@@ -1,0 +1,6 @@
+Flask==2.2.5
+Flask-Cors
+requests
+boto3
+PyJWT[crypto]
+
